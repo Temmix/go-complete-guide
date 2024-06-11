@@ -1,9 +1,10 @@
-PUT http://localhost:7070/events/6
+PUT http://localhost:7070/events/4
 content-type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IlJlbW1peEBnbWFpbC5jb20iLCJleHBpcmF0aW9uIjoxNzE4MTQ0MTA2LCJ1c2VySWQiOjJ9.SNuCBJg4JS6FOeizns5V7IDMF-GHIuhgD4ylJxUblGg
 
 {
-    "name": "Test event 6",
-    "description": "A test description 6",
-    "location": "Cave Venue",
+    "name": "Test event 4",
+    "description": "A test description 4",
+    "location": "44",
     "dateTime": "2024-12-01T15:30:00.000Z"
 }

@@ -1,2 +1,2 @@
-DELETE http://localhost:7070/events/4
+DELETE http://localhost:7070/events/1/register
 Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IlJlbW1peEBnbWFpbC5jb20iLCJleHBpcmF0aW9uIjoxNzE4MTQ0MTA2LCJ1c2VySWQiOjJ9.SNuCBJg4JS6FOeizns5V7IDMF-GHIuhgD4ylJxUblGg

@@ -1,9 +1,10 @@
 POST http://localhost:7070/events
 content-type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IlJlbW1peEBnbWFpbC5jb20iLCJleHBpcmF0aW9uIjoxNzE4MTUwMjE3LCJ1c2VySWQiOjF9.P-0u18ekQs7FuV8v88yi7ujtFNinzsFOB2QC8BOfK9Y
 
 {
-    "name": "Test event 5",
-    "description": "A test description 5",
-    "location": "Mango Venue",
+    "name": "Test event 1",
+    "description": "A test description 1",
+    "location": "Mango Night Club",
     "dateTime": "2024-12-01T15:30:00.000Z"
 }

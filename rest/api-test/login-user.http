@@ -1,0 +1,8 @@
+POST http://localhost:7070/login
+content-type: application/json
+
+{
+      "email": "Remmix@gmail.com", 
+      "password": "test"
+   
+}

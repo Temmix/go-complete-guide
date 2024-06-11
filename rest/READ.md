@@ -11,3 +11,6 @@ To install sql-lite to you app, run
 
 To install Bcrypt for password encryption, run 
     go get -u golang.org/x/crypto
+
+To install jwt token
+     go get -u github.com/golang-jwt/jwt/v5

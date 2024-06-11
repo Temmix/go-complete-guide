@@ -2,6 +2,6 @@ POST http://localhost:7070/signup
 content-type: application/json
 
 {
-    "email": "temmix@gmail.com", 
+    "email": "Remmix@gmail.com", 
     "password": "test"
 }
